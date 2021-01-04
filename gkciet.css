@@ -1,0 +1,35 @@
+#section1{
+          width: 1300px;
+          height:350px;
+          margine:5px 5px 5px 5px;
+          border: 1px solid black;
+          padding: 10px 10px 10px 10px;
+          background-color:white;
+          color:#1155CC;
+          }
+#section2{
+          width:1300px;
+          height:300px;
+          margine:5px 5px 5px 5px;
+          border:1px solid black;
+          padding:10px 10px 10px 10px;
+          background-color:#36c;
+          }
+
+#section3{
+          width:1300px;
+          height:327px;
+          margine:5px 5px 5px 5px;
+          border:1px solid red;
+          padding:5px 5px 5px 5px;
+          background-color:white;
+          color:#1155CC;
+          }
+#section31{
+            width:660px;
+            height:250px;
+            margine:5px 5px 5px 5px;
+            border:1px solid black;
+            background-color:#36c;
+            color:white;
+            }
